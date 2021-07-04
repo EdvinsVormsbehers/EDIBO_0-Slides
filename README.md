@@ -1,2 +1,3 @@
 # EDIBO_0-Slides
-This repository belongs to EDIBO making slides for each lesson with my summary
+
+slides-edibo1.html is file of slides using https://slides.com/ of EDIBO Lesson 1 Bubble-Sort my daily goals
