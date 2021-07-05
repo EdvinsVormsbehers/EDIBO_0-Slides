@@ -11,3 +11,7 @@ slides-edibo2.html is file of slides using https://slides.com/ of EDIBO Lesson 2
 https://slides.com/bejibiu_white/edibo3
 
 slides-edibo3.html is file of slides using https://slides.com/ of EDIBO Lesson 3 Diamond my daily goals
+#
+https://slides.com/bejibiu_white/edibo4
+
+slides-edibo4.html is file of slides using https://slides.com/ of EDIBO Lesson 4 (Encoding system & Git Bash) my daily goals
