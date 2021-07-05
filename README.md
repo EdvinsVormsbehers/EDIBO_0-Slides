@@ -19,3 +19,7 @@ slides-edibo4.html is file of slides using https://slides.com/ of my daily goals
 https://slides.com/bejibiu_white/edibo5
 
 slides-edibo5.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 5 making my game on python using pygame
+#
+https://slides.com/bejibiu_white/edibo6
+
+slides-edibo6.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 6 Learn Python in 5 hours
