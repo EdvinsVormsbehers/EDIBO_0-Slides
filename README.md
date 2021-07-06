@@ -23,3 +23,7 @@ slides-edibo5.html is file of slides using https://slides.com/ of my daily goals
 https://slides.com/bejibiu_white/edibo6
 
 slides-edibo6.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 6 Learn Python in 5 hours
+#
+https://slides.com/bejibiu_white/edibo7
+
+slides-edibo7.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 7 Creating png file in Python with own logo
