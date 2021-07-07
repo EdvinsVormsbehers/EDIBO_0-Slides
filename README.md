@@ -35,3 +35,7 @@ slides-edibo8.html is file of slides using https://slides.com/ of my daily goals
 https://slides.com/bejibiu_white/edibo9
 
 slides-edibo9.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 9 Intro in databases and SQLite
+#
+https://slides.com/bejibiu_white/edibo10
+
+slides-edibo10.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 10 Practice in databases with SQLite
