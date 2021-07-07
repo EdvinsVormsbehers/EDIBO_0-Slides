@@ -31,3 +31,7 @@ slides-edibo7.html is file of slides using https://slides.com/ of my daily goals
 https://slides.com/bejibiu_white/edibo8
 
 slides-edibo8.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 8 Learn Git and OOP
+#
+https://slides.com/bejibiu_white/edibo9
+
+slides-edibo9.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 9 Intro in databases and SQLite
