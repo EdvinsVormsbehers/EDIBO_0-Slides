@@ -39,3 +39,7 @@ slides-edibo9.html is file of slides using https://slides.com/ of my daily goals
 https://slides.com/bejibiu_white/edibo10
 
 slides-edibo10.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 10 Practice in databases with SQLite
+#
+https://slides.com/bejibiu_white/edibo11
+
+slides-edibo11.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 11 Working with MySQL Workbench
