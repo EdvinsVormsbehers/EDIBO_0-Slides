@@ -43,3 +43,7 @@ slides-edibo10.html is file of slides using https://slides.com/ of my daily goal
 https://slides.com/bejibiu_white/edibo11
 
 slides-edibo11.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 11 Working with MySQL Workbench
+#
+https://slides.com/bejibiu_white/edibo12
+
+slides-edibo12.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 12 Data migration from SQLite to MySQL database using script
