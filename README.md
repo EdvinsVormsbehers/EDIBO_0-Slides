@@ -51,3 +51,7 @@ slides-edibo12.html is file of slides using https://slides.com/ of my daily goal
 https://slides.com/bejibiu_white/edibo13
 
 slides-edibo13.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 13 Data migration from SQLite to MySQL database using connectors
+#
+https://slides.com/bejibiu_white/edibo14
+
+slides-edibo14.html is file of slides using https://slides.com/ of my daily goals EDIBO Lesson 14 Practice in SQL constructions
